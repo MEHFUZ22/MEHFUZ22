@@ -1,5 +1,9 @@
-![logo](https://github.com/MEHFUZ22/MEHFUZ22/blob/main/Banner.gif)
-<h1 align="center">Hi 👋, I'm Mehfuz </h1>
+
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+alt="Waving hand animated gif"
+height="45"
+width="45" /> I'm Mehfuz</h1>
+
 <h3 align="center">Without data you're just another person with an opinion</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/MEHFUZ22/MEHFUZ22/blob/main/cde.gif">
 
